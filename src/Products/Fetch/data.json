@@ -1,0 +1,44 @@
+{
+   "name":"Project",
+   "isFolder": true,
+   "items":[
+    {
+        "name":"node_module",
+        "isFolder": true,
+        "items":[
+            {
+                "name":"Bootstrap", 
+                "is folder": true,
+                "items":[{"name":"bootstrap.min.css", "is folder": false}]
+            }
+        ]
+    },
+    {
+        "name": "public",
+        "isFolder":true,
+        "items":[
+            {"name": "index.html", "is folder": false},
+            {"name": "mainfest.json", "is folder": false},
+            {"name": "favicon.ico", "is folder": false}
+        ]
+    },
+    {
+        "name": "src",
+        "isFolder":true,
+        "items":[
+            {"name": "App.js", "is folder": false},
+            {"name": "App.css", "is folder": false},
+            {"name": "index.js", "is folder": false},
+            {"name": "index.css", "is folder": false}
+        ]
+    },
+    {
+        "name":"package.json",
+        "isFolder":false
+    },
+    {
+        "name":"package-lock.json",
+        "isFolder":false
+    }
+   ]
+}
