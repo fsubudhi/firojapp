@@ -2,7 +2,7 @@ import React from 'react'
 
 const dummyforGit = () => {
   return (
-    <div>dummy for git use</div>
+    <div>dummy for git use for check out</div>
   )
 }
 
